@@ -1,0 +1,21 @@
+{
+  "name": "andre-de-vries",
+  "description": "Personal site of Andre de Vries",
+  "version": "5.2.1",
+  "license": "Apache-2.0",
+  "url": "https://github.com/andre347/andredevries-tech",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src",
+    "now-build": "npm run build"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@fortawesome/fontawesome-pro": "^5.6.3",
+    "@vuepress/plugin-google-analytics": "^1.0.0-alpha.0",
+    "@vuepress/plugin-pwa": "^1.0.0-alpha.0",
+    "vuepress": "^1.0.0-alpha.30",
+    "vuepress-plugin-janitor": "^1.0.0",
+    "yaml-front-matter": "^4.0.0"
+  }
+}
