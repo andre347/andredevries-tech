@@ -13,7 +13,16 @@ module.exports = {
     nav: [
       { text: "Home", link: "/" },
       { text: "Blog", link: "/blog/index.html" },
-      { text: "Learn", link: "/learn/index.html" },
+      {
+        text: "Learn",
+        items: [
+          { text: "About", link: "/learn/index.html" },
+          {
+            text: "Regular Expressions",
+            link: "/learn/Regular_Expressions/index.html"
+          }
+        ]
+      },
       // {
       //   text: "Data",
       //   items: [

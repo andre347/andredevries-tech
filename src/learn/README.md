@@ -1,3 +1,3 @@
 # Learning
 
-I will populate this with short courses or learning pieces on Tableau & Alteryx and web development in the future.
+In this section you will find small learning pieces on topics related to Tableau, Alteryx and web development.
