@@ -1,6 +1,6 @@
 ---
 title: "ES6: Default vs Named Exports"
-date: 2019-03-12 19:00:00
+date: 2019-03-12 15:00:00
 type: post
 blog: true
 excerpt: ES6 (ECMAScript 2015) introduced two types of module exports - default and named exports. In this blog I explain the differences between the two.
