@@ -45,7 +45,7 @@ module.exports = {
         },
         {
           name: "Github",
-          href: "https://gitlab.com/andre347",
+          href: "https://github.com/andre347",
           icon: "github"
         },
         // {
