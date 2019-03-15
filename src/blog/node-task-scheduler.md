@@ -116,3 +116,5 @@ cron.schedule("0 18 * * *", () => {
   fetchingData();
 });
 ```
+
+Want to take a look at the full app or clone it? Head over to my Github [here](https://github.com/andre347/nodejs-task-scheduling)!
