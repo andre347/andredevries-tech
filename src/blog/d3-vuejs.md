@@ -4,7 +4,7 @@ date: 2019-01-03 15:00:00
 type: post
 blog: true
 excerpt: In this blog, I will describe how you can integrate D3 into Vue.js. I'm also introducing the Vue CLI and how to integrate D3 there.
-image: https://cdn-images-1.medium.com/max/1600/1*5vpyOJmftRUECVkEHAz5aw.png
+image: https://res.cloudinary.com/dmim37dbf/image/upload/v1552855223/d3_vuejs.png
 tags:
   - vuejs
   - d3js
