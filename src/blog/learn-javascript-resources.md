@@ -1,6 +1,6 @@
 ---
 title: "Resources for learning JavaScript: YouTube"
-date: 2019-04-29 09:00:00
+date: 2019-04-29 15:00:00
 type: post
 blog: true
 excerpt: Very often I get the question where should I start if I want to learn JavaScript? Besides recommending a few online courses I don't have much to fall back on. In the next few posts I have therefore collated all the resources that I have used (and still use) to learn JavaScript. We're starting with a list of YouTube channels that I follow.
