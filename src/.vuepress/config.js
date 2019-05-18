@@ -86,8 +86,7 @@ module.exports = {
       "link",
       {
         rel: "stylesheet",
-        href:
-          "https://fonts.googleapis.com/css?family=PT+Serif:400,700|Poppins:500,700"
+        href: "https://fonts.googleapis.com/css?family=PT+Serif:400,700|Poppins:500,700"
       }
     ],
     [
@@ -143,10 +142,7 @@ module.exports = {
 
     ["link", { rel: "manifest", href: "/site.webmanifest" }],
     ["meta", { name: "msapplication-TileColor", content: "#ffffff" }],
-    [
-      "meta",
-      { name: "msapplication-TileImage", content: "/mstile-150x150.png" }
-    ],
+    ["meta", { name: "msapplication-TileImage", content: "/mstile-150x150.png" }],
     ["meta", { name: "theme-color", content: "#ffffff" }],
     [
       "meta",
@@ -156,9 +152,6 @@ module.exports = {
           "Personal Website of Andre de Vries. Tableau Alteryx Consultant and Trainer. JavaScript, Vue.js and D3.js"
       }
     ],
-    [
-      "script",
-      { async: true, src: "https://static.codepen.io/assets/embed/ei.js" }
-    ]
+    ["script", { async: true, src: "https://static.codepen.io/assets/embed/ei.js" }]
   ]
 };
