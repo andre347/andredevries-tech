@@ -23,13 +23,6 @@ module.exports = {
           }
         ]
       },
-      // {
-      //   text: "Data",
-      //   items: [
-      //     { text: "Test1", link: "/data/index.html" },
-      //     { text: "Test2", link: "/data/test_data/index.html" }
-      //   ]
-      // },
       {
         text: "About",
         link: "/about/index.html"
@@ -48,11 +41,6 @@ module.exports = {
           href: "https://github.com/andre347",
           icon: "github"
         },
-        // {
-        //   name: "CodePen",
-        //   href: "https://codepen.io/andre347/",
-        //   icon: "codepen"
-        // },
         {
           name: "Medium",
           href: "https://medium.com/@andre.devries",
@@ -76,7 +64,11 @@ module.exports = {
     [
       "@vuepress/pwa",
       {
-        serviceWorker: true
+        serviceWorker: true,
+        updatePopup: {
+          message: "New content is available.",
+          buttonText: "Refresh"
+        }
       }
     ],
     "vuepress-plugin-janitor"
